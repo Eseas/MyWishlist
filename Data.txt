@@ -1,0 +1,4 @@
+List:
+1      Moldingas                5
+2      Chip                     160
+3      RacingWheel              1800
